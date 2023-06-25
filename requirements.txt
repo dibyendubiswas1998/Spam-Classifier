@@ -1,0 +1,25 @@
+# local_lib
+-e.
+
+# Data Manipulation libraries:
+numpy
+pandas
+scipy
+stats
+
+# Data Visualization libraries:
+matplotlib
+seaborn
+
+# ML related  libraries:
+scikit-learn
+xgboost
+imblearn
+
+# NLP libaries:
+nltk
+spacy
+
+
+# Deployment libraries:
+flask
