@@ -1,0 +1,14 @@
+{
+    "For Training data ": {
+        "recall_score": 0.8155339805825242,
+        "precision_score": 0.9859154929577465,
+        "accuracy_score": 0.9755151515151516,
+        "mean_absolute_error_score": 0.024484848484848484
+    },
+    "For Test data": {
+        "recall_score": 0.84251968503937,
+        "precision_score": 1.0,
+        "accuracy_score": 0.9806201550387597,
+        "mean_absolute_error_score": 0.01937984496124031
+    }
+}

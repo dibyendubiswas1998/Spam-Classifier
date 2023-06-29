@@ -1,0 +1,145 @@
+2023-06-29/20:56:04		prediction process is start.
+2023-06-29/20:56:04		text pre-processing start
+2023-06-29/20:56:05		convert the text to vector using TF-IDF
+2023-06-29/20:56:05		Error will be: X has 4 features, but ExtraTreeClassifier is expecting 1500 features as input.
+2023-06-29/20:57:42		prediction process is start.
+2023-06-29/20:57:42		text pre-processing start
+2023-06-29/20:57:42		convert the text to vector using TF-IDF
+2023-06-29/20:57:42		Error will be: DataFrame constructor not properly called!
+2023-06-29/20:58:10		prediction process is start.
+2023-06-29/20:58:10		text pre-processing start
+2023-06-29/20:58:10		convert the text to vector using TF-IDF
+2023-06-29/20:58:54		prediction process is start.
+2023-06-29/20:58:54		text pre-processing start
+2023-06-29/20:58:54		convert the text to vector using TF-IDF
+2023-06-29/21:13:10		prediction process is start.
+2023-06-29/21:13:10		text pre-processing start
+2023-06-29/21:13:10		Error will be: 'TfidfVectorizer' object has no attribute 'predict'
+2023-06-29/21:14:17		prediction process is start.
+2023-06-29/21:14:17		text pre-processing start
+2023-06-29/21:16:48		prediction process is start.
+2023-06-29/21:16:48		text pre-processing start
+2023-06-29/21:16:48		Error will be: 'list' object has no attribute 'lower'
+2023-06-29/21:17:51		prediction process is start.
+2023-06-29/21:17:51		text pre-processing start
+2023-06-29/21:19:51		prediction process is start.
+2023-06-29/21:19:51		text pre-processing start
+2023-06-29/21:20:11		prediction process is start.
+2023-06-29/21:20:11		text pre-processing start
+2023-06-29/21:24:06		prediction process is start.
+2023-06-29/21:24:06		text pre-processing start
+2023-06-29/21:24:30		prediction process is start.
+2023-06-29/21:24:30		text pre-processing start
+2023-06-29/21:25:42		prediction process is start.
+2023-06-29/21:25:42		text pre-processing start
+2023-06-29/21:29:07		prediction process is start.
+2023-06-29/21:29:07		text pre-processing start
+2023-06-29/21:32:17		prediction process is start.
+2023-06-29/21:32:17		text pre-processing start
+2023-06-29/21:34:18		training process is start.
+2023-06-29/21:34:18		load & split the data
+2023-06-29/21:34:23		model creation is started.
+2023-06-29/21:34:23		Evaluate the model performance
+2023-06-29/21:34:23		successfully training process is completed
+
+
+2023-06-29/21:34:24		prediction process is start.
+2023-06-29/21:34:24		text pre-processing start
+2023-06-29/21:35:02		training process is start.
+2023-06-29/21:35:02		load & split the data
+2023-06-29/21:35:06		model creation is started.
+2023-06-29/21:35:39		Evaluate the model performance
+2023-06-29/21:35:40		successfully training process is completed
+
+
+2023-06-29/21:35:40		prediction process is start.
+2023-06-29/21:35:40		text pre-processing start
+2023-06-29/21:36:14		prediction process is start.
+2023-06-29/21:36:14		text pre-processing start
+2023-06-29/21:37:12		prediction process is start.
+2023-06-29/21:37:12		text pre-processing start
+2023-06-29/21:39:11		prediction process is start.
+2023-06-29/21:39:11		text pre-processing start
+2023-06-29/21:39:11		Error will be: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2023-06-29/21:39:28		prediction process is start.
+2023-06-29/21:39:28		text pre-processing start
+2023-06-29/21:47:20		training process is start.
+2023-06-29/21:47:20		load & split the data
+2023-06-29/21:47:24		model creation is started.
+2023-06-29/21:51:10		Evaluate the model performance
+2023-06-29/21:51:19		successfully training process is completed
+
+
+2023-06-29/21:51:19		prediction process is start.
+2023-06-29/21:51:19		text pre-processing start
+2023-06-29/21:51:19		Error will be: cannot use sparse input in 'SVC' trained on dense data
+2023-06-29/22:03:52		training process is start.
+2023-06-29/22:03:52		load & split the data
+2023-06-29/22:03:54		model creation is started.
+2023-06-29/22:05:36		Evaluate the model performance
+2023-06-29/22:05:39		successfully training process is completed
+
+
+2023-06-29/22:05:39		prediction process is start.
+2023-06-29/22:05:39		text pre-processing start
+2023-06-29/22:05:39		Error will be: cannot use sparse input in 'SVC' trained on dense data
+2023-06-29/22:08:21		training process is start.
+2023-06-29/22:08:21		load & split the data
+2023-06-29/22:08:23		model creation is started.
+2023-06-29/22:10:06		Evaluate the model performance
+2023-06-29/22:10:07		successfully training process is completed
+
+
+2023-06-29/22:10:07		prediction process is start.
+2023-06-29/22:10:07		text pre-processing start
+2023-06-29/22:11:13		prediction process is start.
+2023-06-29/22:11:13		text pre-processing start
+2023-06-29/22:13:24		prediction process is start.
+2023-06-29/22:13:24		text pre-processing start
+2023-06-29/22:18:37		prediction process is start.
+2023-06-29/22:18:37		text pre-processing start
+2023-06-29/22:19:57		prediction process is start.
+2023-06-29/22:19:57		text pre-processing start
+2023-06-29/22:27:02		prediction process is start.
+2023-06-29/22:27:02		text pre-processing start
+2023-06-29/22:27:13		training process is start.
+2023-06-29/22:27:13		load & split the data
+2023-06-29/22:27:15		model creation is started.
+2023-06-29/22:29:02		Evaluate the model performance
+2023-06-29/22:29:03		successfully training process is completed
+
+
+2023-06-29/22:29:03		prediction process is start.
+2023-06-29/22:29:03		text pre-processing start
+2023-06-29/22:29:51		prediction process is start.
+2023-06-29/22:29:51		text pre-processing start
+2023-06-29/22:43:08		prediction process is start.
+2023-06-29/22:43:08		text pre-processing start
+2023-06-29/22:43:24		prediction process is start.
+2023-06-29/22:43:24		text pre-processing start
+2023-06-29/22:44:04		prediction process is start.
+2023-06-29/22:44:04		text pre-processing start
+2023-06-29/22:44:26		prediction process is start.
+2023-06-29/22:44:26		text pre-processing start
+2023-06-29/22:44:50		prediction process is start.
+2023-06-29/22:44:50		text pre-processing start
+2023-06-29/22:49:19		prediction process is start.
+2023-06-29/22:49:19		text pre-processing start
+2023-06-29/22:52:09		training process is start.
+2023-06-29/22:52:09		load & split the data
+2023-06-29/22:52:11		model creation is started.
+2023-06-29/22:52:11		Evaluate the model performance
+2023-06-29/22:52:11		successfully training process is completed
+
+
+2023-06-29/22:52:11		prediction process is start.
+2023-06-29/22:52:11		text pre-processing start
+2023-06-29/22:55:24		training process is start.
+2023-06-29/22:55:24		load & split the data
+2023-06-29/22:55:26		model creation is started.
+2023-06-29/22:55:26		Evaluate the model performance
+2023-06-29/22:55:26		successfully training process is completed
+
+
+2023-06-29/22:55:26		prediction process is start.
+2023-06-29/22:55:26		text pre-processing start
