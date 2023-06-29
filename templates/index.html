@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<!--    <link rel="stylesheet" href="../static/css/style.css">-->
+    <link href="{{url_for('static', filename='css/style.css') }}" rel="stylesheet"/>
+    <title>Spam Detection</title>
+</head>
+<body>
+       <div class="container">
+            <div class="title">
+                Spam Detection
+            </div>
+            <form action="/prediction" method="post">
+                <div class="user-details">
+                    <div class="input-box">
+                        <label for="messages">Enter Message</label>
+                        <textarea name="messages" id="messages" cols="72" rows="2.5"></textarea>
+                    </div>
+                </div>
+                <div class="button">
+                    <button type="submit">Submit</button>
+                </div>
+                <div>
+                    <p><span style="font-weight: bold;">Result: </span> {{result}}</p>
+                </div>
+            </form>
+    </div>
+</body>
+</html>
