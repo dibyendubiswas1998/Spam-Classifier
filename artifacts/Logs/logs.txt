@@ -143,3 +143,31 @@
 
 2023-06-29/22:55:26		prediction process is start.
 2023-06-29/22:55:26		text pre-processing start
+2023-06-29/23:45:49		prediction process is start.
+2023-06-29/23:45:49		text pre-processing start
+2023-06-29/23:58:48		prediction process is start.
+2023-06-29/23:58:48		text pre-processing start
+2023-06-29/23:59:08		prediction process is start.
+2023-06-29/23:59:08		text pre-processing start
+2023-06-29/23:59:17		prediction process is start.
+2023-06-29/23:59:17		text pre-processing start
+2023-06-29/23:59:28		prediction process is start.
+2023-06-29/23:59:28		text pre-processing start
+2023-06-29/23:59:43		prediction process is start.
+2023-06-29/23:59:43		text pre-processing start
+2023-06-29/23:59:51		prediction process is start.
+2023-06-29/23:59:51		text pre-processing start
+2023-06-30/00:00:04		prediction process is start.
+2023-06-30/00:00:04		text pre-processing start
+2023-06-30/00:00:24		prediction process is start.
+2023-06-30/00:00:24		text pre-processing start
+2023-06-30/00:00:39		prediction process is start.
+2023-06-30/00:00:39		text pre-processing start
+2023-06-30/00:00:51		prediction process is start.
+2023-06-30/00:00:51		text pre-processing start
+2023-06-30/00:01:03		prediction process is start.
+2023-06-30/00:01:03		text pre-processing start
+2023-06-30/00:01:16		prediction process is start.
+2023-06-30/00:01:16		text pre-processing start
+2023-06-30/00:04:40		prediction process is start.
+2023-06-30/00:04:40		text pre-processing start
