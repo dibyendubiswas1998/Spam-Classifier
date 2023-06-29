@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07cf9aa7-0c18-44af-8b83-cc1d535cfe2e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/artifacts/Logs/logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/artifacts/Logs/logs.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

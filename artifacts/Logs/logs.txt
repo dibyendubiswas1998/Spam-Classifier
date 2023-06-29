@@ -171,3 +171,7 @@
 2023-06-30/00:01:16		text pre-processing start
 2023-06-30/00:04:40		prediction process is start.
 2023-06-30/00:04:40		text pre-processing start
+2023-06-30/00:23:45		prediction process is start.
+2023-06-30/00:23:45		text pre-processing start
+2023-06-30/00:24:03		prediction process is start.
+2023-06-30/00:24:03		text pre-processing start
