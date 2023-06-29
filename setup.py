@@ -18,6 +18,7 @@ setup(
     install_requires=[
         'pandas',
         'scikit-learn',
-        'nltk'
+        'nltk',
+        'xgboost'
     ]
 )
