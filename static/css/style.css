@@ -49,7 +49,7 @@ body{
     margin-bottom: 5px;
 }
 .container form .input-box textarea{
-	resize: none;
+	resize: vertical;
     height: 70px;
     width: 215%;
     outline: none;
